@@ -18,4 +18,4 @@ Evaluation: The models' performance is evaluated using accuracy metrics on a tes
 Dataset
 The Sarcasm Headlines Dataset is sourced from Kaggle and contains headlines labeled as sarcastic or non-sarcastic. The dataset is preprocessed to remove stopwords and lemmatize words.
 
-google colab link
+google colab link: https://colab.research.google.com/drive/1VDaJDApyivwcHDjhnnhI5JAXNQb8fQu0?usp=sharing
